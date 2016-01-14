@@ -2,7 +2,8 @@
 
 
 ## Installing Figtree in ubuntu
-* Download Figtree
+* Clone Figtree
+
 https://github.com/vmorariu/figtree
 
 * Compile with make
