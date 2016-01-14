@@ -2,7 +2,9 @@
 -Dejar scripts que haga tests
 -Scatter 3d, animación
 -GenerarData
--Test comparativos con distinta cantidad puntos (para medir tiempo) 
+-Test comparativos (para medir tiempo) 
+	-Distinta cantidad de puntos mismo sigma
+	-Misma cantidad de puntos distinto sigma
 -Modificar epsilon para figtree
 -Gráficos, muchos gráficos
 -Sumatorias, ifgt series
