@@ -11,4 +11,5 @@
 -Arreglar informe
 	-Agregar jacobiano
 	-Cambiar \cdot por \,
+	-Cambiar N por sigma^2
 -Función para generar puntos
